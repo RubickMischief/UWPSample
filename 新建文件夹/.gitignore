@@ -1,0 +1,9 @@
+Debug
+Release
+Generated Files
+AppPackages
+*.suo
+*.sdf
+*.opensdf
+*.user
+*.ipch
